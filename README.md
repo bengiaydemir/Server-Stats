@@ -3,7 +3,7 @@
 
 This script provides basic server performance statistics, such as CPU usage, memory usage, disk usage, and top processes.
 The URL of the project:
-https://github.com/bengiaydemir/Server-Stats
+https://roadmap.sh/projects/server-stats
 
 ## Features
 - Total CPU usage
