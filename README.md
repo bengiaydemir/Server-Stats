@@ -2,6 +2,8 @@
 # Server Performance Stats Script
 
 This script provides basic server performance statistics, such as CPU usage, memory usage, disk usage, and top processes.
+The URL of the project:
+https://github.com/bengiaydemir/Server-Stats
 
 ## Features
 - Total CPU usage
