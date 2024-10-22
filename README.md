@@ -15,7 +15,7 @@ This script provides basic server performance statistics, such as CPU usage, mem
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Server-Stats.git
+   git clone https://github.com/bengiaydemir/Server-Stats.git
 2. Make the script is executable:
    chmod +x stats.sh
 
